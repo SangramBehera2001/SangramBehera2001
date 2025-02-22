@@ -24,10 +24,13 @@ jobs:
           sed -i "s|> <!--QUOTE-->|> $QUOTE|" README.md
 
       - name: Commit and push changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated motivational quote" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated motivational quote" && git push https://$GH_PAT@github.com/SangramBehera2001/SangramBehera2001.git main)
+
 
 
