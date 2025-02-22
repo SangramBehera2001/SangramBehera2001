@@ -8,16 +8,18 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Install jq
+        run: sudo apt-get install jq -y
+
       - name: Fetch a random quote
         run: |
-          sudo apt-get install jq -y
           QUOTE=$(curl -s https://api.quotable.io/random | jq -r '.content + " - " + .author')
           echo "QUOTE=$QUOTE" >> $GITHUB_ENV
-
 
       - name: Update README
         run: |
@@ -29,8 +31,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/SangramBehera2001/SangramBehera2001.git
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated motivational quote" && git push https://$GH_PAT@github.com/SangramBehera2001/SangramBehera2001.git main)
-
-
-
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated motivational quote" && git push origin main)
