@@ -14,8 +14,10 @@ jobs:
 
       - name: Fetch a random quote
         run: |
+          sudo apt-get install jq -y
           QUOTE=$(curl -s https://api.quotable.io/random | jq -r '.content + " - " + .author')
           echo "QUOTE=$QUOTE" >> $GITHUB_ENV
+
 
       - name: Update README
         run: |
@@ -26,6 +28,6 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Updated motivational quote"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated motivational quote" && git push)
+
 
