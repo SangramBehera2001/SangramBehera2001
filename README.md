@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Sangram!
 
 ## 🌟 Daily Motivational Quote  
-> <!--QUOTE-->
+> 
 
 
 ## 📊 GitHub Stats
