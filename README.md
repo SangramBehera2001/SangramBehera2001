@@ -1,9 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Sangram Behera</h1>
-<h3 align="center">A Passionate Software Developer | Full Stack Enthusiast | MCA Graduate</h3>
+<h3 align="center">A Passionate Java Developer | Full Stack Enthusiast | MCA Graduate</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SangramBehera2001&label=Profile%20views&color=0e75b6&style=flat" alt="SangramBehera" />
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=🚀+Actively+Looking+for+Opportunities" alt="Actively Looking for Opportunities" />
 </p>
 
 ---
@@ -19,36 +22,32 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
   <!-- Languages -->
+  <b>💻 Languages:</b><br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
   <!-- Frontend -->
-  <br/>
+  <b>🎨 Frontend:</b><br/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
   <!-- Backend -->
-  <br/>
+  <b>⚙️ Backend:</b><br/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-
   <!-- Database & Tools -->
-  <br/>
+  <b>🗄️ Database & Tools:</b><br/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
+</p>  
 ---
 
 ## 📊 GitHub Stats
