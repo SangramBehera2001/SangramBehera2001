@@ -66,10 +66,10 @@
 - 🏦 [**Bank Management System**](https://github.com/SangramBehera/Bank-Management-System)  
   A secure full-stack banking app using Spring Boot, MySQL, and React.
 
-- 🛒 [**EcoCart – Sustainable Shopping Platform**](https://github.com/SangramBehera/EcoCart) *(Coming Soon)*  
+- 🛒 [**EcoCart – Sustainable Shopping Platform**](https://github.com/SangramBehera/EcoCart) *(Ongoing)*  
   An eco-friendly e-commerce platform promoting sustainable products.
 
-- 🧠 [**MetaMind – Mental Health Tracker & AI Chat Companion**](https://github.com/SangramBehera/MetaMind) *(WIP)*  
+- 🧠 [**MetaMind – Mental Health Tracker & AI Chat Companion**](https://github.com/SangramBehera/MetaMind) *(Coming Soon)*  
   Track mental health with AI support and insights. Built with Spring Boot + React.
 
 ---
