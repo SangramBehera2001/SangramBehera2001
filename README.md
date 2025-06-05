@@ -48,9 +48,12 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>  
+
 ---
 
+
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SangramBehera2001&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SangramBehera2001)
@@ -62,13 +65,13 @@
 
 ### 📌 Featured Projects
 
-- 🏦 [**Bank Management System**](https://github.com/SangramBehera/Bank-Management-System)  
+- 🏦 [**Bank Management System**](https://github.com/SangramBehera2001/Bank-Management-System)  
   A secure full-stack banking app using Spring Boot, MySQL, and React.
 
-- 🛒 [**EcoCart – Sustainable Shopping Platform**](https://github.com/SangramBehera/EcoCart) *(Ongoing)*  
+- 🛒 [**EcoCart – Sustainable Shopping Platform**](https://github.com/SangramBehera2001/EcoCart) *(Ongoing)*  
   An eco-friendly e-commerce platform promoting sustainable products.
 
-- 🧠 [**MetaMind – Mental Health Tracker & AI Chat Companion**](https://github.com/SangramBehera/MetaMind) *(Coming Soon)*  
+- 🧠 [**MetaMind – Mental Health Tracker & AI Chat Companion**](https://github.com/SangramBehera2001/MetaMind) *(Coming Soon)*  
   Track mental health with AI support and insights. Built with Spring Boot + React.
 
 ---
