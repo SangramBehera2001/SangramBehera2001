@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Sangram Behera</h1>
-<h3 align="center">A Passionate Java Developer | Full Stack Enthusiast | MCA Graduate</h3>
+<h3 align="center">A Passionate Software Developer | Full Stack Enthusiast | MCA Graduate</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SangramBehera&label=Profile%20views&color=0e75b6&style=flat" alt="SangramBehera" />
+  <img src="https://komarev.com/ghpvc/?username=SangramBehera2001&label=Profile%20views&color=0e75b6&style=flat" alt="SangramBehera" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="sangrambehera2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:sangrambehera2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/sbehera2001/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
