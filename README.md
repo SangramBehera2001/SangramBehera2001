@@ -19,8 +19,12 @@
 - 🌱 I’m currently learning advanced **Java**, **Spring Boot**, **React**, and **DSA**  
 - 👨‍💻 I’m building real-world projects like **Bank Management System**, **EcoCart**, and **MetaMind**  
 - 💬 Ask me about **Java, Backend Development, REST APIs, or MySQL**  
-- 📫 Reach me at **sangrambehera2001@gmail.com**
-
+- 📫 Reach me at **sangrambehera2001@gmail.com**  
+- 📄 Check out my Resume
+  
+  <a href="https://drive.google.com/file/d/1xo6ZawIUGhUI0Pr6z236H7AFtifdE-go/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Google%20Drive-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge">
+  </a>
 ---
 
 ### 🛠️ Tech Stack
