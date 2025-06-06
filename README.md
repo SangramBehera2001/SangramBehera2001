@@ -65,7 +65,7 @@
 
 ### 📌 Featured Projects
 
-- [**Plant Disease Detection and Prediction**](https://github.com/SangramBehera2001/Plant-Disease-Detection-and-Prediction_)
+- 🌿 [**Plant Disease Detection and Prediction**](https://github.com/SangramBehera2001/Plant-Disease-Detection-and-Prediction_)  
   A CNN-based machine learning model for plant disease detection and prediction.
   
 - 🏦 [**Bank Management System**](https://github.com/SangramBehera2001/Bank-Management-System)  
