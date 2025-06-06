@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="./assets/programmer-coding-anime.png" alt="Professional Programmer" width="300"/>
+</p>
 
-<h1 align="center">Hi 👋, I'm Sangram Behera</h1>
+<h1 align="center">Hi 👋, I'm Sangram Behera!</h1>
 <h3 align="center">A Passionate Java Developer | Full Stack Enthusiast | MCA Graduate</h3>
 
 <p align="center">
